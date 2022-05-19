@@ -10,7 +10,7 @@ An in-depth paragraph about your project and overview of use.
 
 Ippei Nishiyama
 
-[@ippei142857](https://twitter.com/ippei142857)
+[@ippei2480](https://twitter.com/ippei2480)
 
 ## License
 
